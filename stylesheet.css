@@ -1,10 +1,30 @@
+body {
+  background-color:#000000;
+}
 p {
    color: #ee0032;
+   font-family: Verdana;
    }
 .palm {
-  width: 250px;
+  width: 450px;
   border-radius: 25%;
   position: fixed;
-  top: 20px;
-  left: 400px;
+  top: 70px;
+  left: 320px;
+}
+h1 {
+  font-family: Verdana;
+  color: red;
+  font-size: 28px;
+  text-align: center;
+}
+nav a {
+  font-family: Verdana;
+  font-size:18px;
+  color:#24E0B1;
+  background-color: #F7001D;
+  letter-spacing: 12px;
+}
+nav a:hover {
+  color: transparent;
 }
