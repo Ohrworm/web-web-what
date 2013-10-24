@@ -5,6 +5,14 @@ html {
   margin: 0;
 }
 
+h1 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+  font-family: Helvetica, Arial;
+  color: #FFFFFF;
+}
+
 #full-screen-background-image {
   z-index: -999;
   height: auto;
