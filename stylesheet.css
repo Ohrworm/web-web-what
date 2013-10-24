@@ -1,3 +1,10 @@
 p {
    color: #ee0032;
    }
+.palm {
+  width: 250px;
+  border-radius: 25%;
+  position: fixed;
+  top: 20px;
+  left: 400px;
+}
