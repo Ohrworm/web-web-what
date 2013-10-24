@@ -1,0 +1,9 @@
+#full-screen-background-image {
+	z-index: -999;
+  height: auto;
+  min-height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
